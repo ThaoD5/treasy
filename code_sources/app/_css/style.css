@@ -1,0 +1,654 @@
+.translate {
+    -moz-transform: translateX(0%);
+    -o-transform: translateX(0%);
+    -ms-transform: translateX(0%);
+    -webkit-transform: translateX(0%);
+    transform: translateX(0%); 
+    
+    -webkit-transition: all .5s ease-out 0s;
+    -moz-transition: all .5s ease-out 0s;
+    -ms-transition: all .5s ease-out 0s;
+    -o-transition: all .5s ease-out 0s;
+    transition: all .5s ease-out 0s;
+}
+.translateBack {
+    -moz-transform: translateX(-100%);
+    -o-transform: translateX(-100%);
+    -ms-transform: translateX(-100%);
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%); 
+
+    -webkit-transition: all .5s ease-out 0s;
+    -moz-transition: all .5s ease-out 0s;
+    -ms-transition: all .5s ease-out 0s;
+    -o-transition: all .5s ease-out 0s;
+    transition: all .5s ease-out 0s;
+}
+body {
+  width: 100%;
+  height: 100%;
+  min-width: 335px;
+  min-height: 627px;
+  margin: 0 auto;
+  overflow: hidden; }
+
+section {
+    margin: 0;
+    position: absolute !important;
+    width: 100%;
+    height: 100vh;
+    float: left;
+    left: 0;
+    -moz-transform: translateX(100%);
+    -o-transform: translateX(100%);
+    -ms-transform: translateX(100%);
+    -webkit-transform: translateX(100%);
+    transform: translateX(100%); 
+
+    webkit-transition: all .5s ease-out 0s;
+    -moz-transition: all .5s ease-out 0s;
+    -ms-transition: all .5s ease-out 0s;
+    -o-transition: all .5s ease-out 0s;
+    transition: all .5s ease-out 0s;
+}
+#section__loading_screen_logo {
+  background: linear-gradient(135deg, #386ec3 0%, #3cbdc5 100%); }
+  #section__loading_screen_logo img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); }
+
+#section__first_log_in {
+  background: linear-gradient(135deg, #386ec3 0%, #3cbdc5 100%);
+  position: relative; }
+  #section__first_log_in .header_logo {
+    top: 50px;
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    -moz-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0); }
+  #section__first_log_in .information {
+    width: 83.75%;
+    margin: 0 auto;
+    margin-top: 150px; }
+    #section__first_log_in .information h1 {
+      margin: 0;
+      color: #fff;
+      font-family: "proxima-nova", sans-serif;
+      text-align: center; }
+    #section__first_log_in .information aside p {
+      color: #fff;
+      font-family: "proxima-nova", sans-serif;
+      font-weight: 100;
+      font-size: 12px;
+      opacity: 0.6;
+      text-align: center; }
+  #section__first_log_in form {
+    width: 100%;
+    position: relative;
+    left: 50%;
+    margin-top: 50px;
+    -moz-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0); }
+    #section__first_log_in form input[type="date"] {
+      position: relative;
+      height: 50px;
+      outline: none;
+      padding: 0;
+      border: none;
+      display: inline-block;
+      border-radius: 4px;
+      padding-left: 35px;
+      color: #355F95;
+      font-size: 22px;
+      letter-spacing: 1px;
+      width: 83.75%;
+      background: white;
+      -webkit-appearance: none;
+      line-height: 50px;
+      font-family: "proxima-nova", sans-serif;
+      font-weight: 400;
+      text-transform: uppercase;
+      font-size: 16px;
+      color: #355F95;
+      letter-spacing: 1px; }
+    #section__first_log_in form input[type="submit"] {
+      width: 100%;
+      height: 50px;
+      margin-top: 15px;
+      border-radius: 5px;
+      background: url(../_img/right_arrow.svg) 90% no-repeat;
+      background-size: 15px;
+      background-color: #44DB5E;
+      border: none;
+      font-family: "proxima-nova", sans-serif;
+      font-weight: 400;
+      text-transform: uppercase;
+      font-size: 16px;
+      color: #fff;
+      letter-spacing: 1px; }
+    #section__first_log_in form div {
+      height: 50px;
+      position: absolute;
+      width: 50px;
+      top: 0;
+      right: 0;
+      background: url(../_img/calendar_icon.svg) center no-repeat;
+      background-size: 20px;
+      background-color: #386EC3;
+      border-top-right-radius: 5px;
+      border-bottom-right-radius: 5px; }
+  #section__first_log_in ul {
+    width: 83.75%;
+    left: 50%;
+    -moz-transform: translate(-50%, 0%);
+    -o-transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, 0%);
+    -webkit-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+    padding: 0;
+    position: absolute;
+    bottom: 10px; }
+    #section__first_log_in ul li {
+      float: left;
+      list-style: none;
+      margin-left: 10%;
+      margin-right: 6%;
+      font-family: "proxima-nova", sans-serif; }
+      #section__first_log_in ul li a {
+        color: #fff;
+        opacity: 0.5;
+        text-decoration: none; }
+      #section__first_log_in ul li .active {
+        opacity: 1;
+        text-decoration: underline; }
+
+#section__recent_travel {
+    background-color: white;
+}
+  #section__recent_travel .header {
+    width: 100%;
+    height: 50px;
+    background: #386EC3;
+    position: relative;
+    box-shadow: 0px 4px 5px -3px rgba(0, 0, 0, 0.75); }
+    #section__recent_travel .header h1 {
+      margin: 0;
+      line-height: 50px;
+      text-align: center;
+      font-family: "proxima-nova", sans-serif;
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 20px;
+      color: #fff; }
+    #section__recent_travel .header .calendar {
+      position: absolute;
+      top: 50%;
+      -moz-transform: translate(0%, -50%);
+      -o-transform: translate(0%, -50%);
+      -ms-transform: translate(0%, -50%);
+      -webkit-transform: translate(0%, -50%);
+      transform: translate(0%, -50%);
+      left: 20px;
+      height: 25px;
+      width: 25px;
+      background: url(../_img/settings_icon.svg) center no-repeat;
+      background-size: 20px;
+      border: none; }
+  #section__recent_travel ul {
+    padding: 0;
+    margin: 0; }
+    #section__recent_travel ul li {
+      list-style: none;
+      width: 100%;
+      height: 100px;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      background-color: rgba(56, 110, 195, 0.7);
+      font-family: "proxima-nova", sans-serif;
+      color: #fff; }
+      #section__recent_travel ul li div {
+        position: relative;
+        top: 50%;
+        -moz-transform: translate(0%, -50%);
+        -o-transform: translate(0%, -50%);
+        -ms-transform: translate(0%, -50%);
+        -webkit-transform: translate(0%, -50%);
+        transform: translate(0%, -50%);
+        margin: 0 26px; }
+      #section__recent_travel ul li .departure_city {
+        float: left;
+        width: 100px; }
+      #section__recent_travel ul li .destination_city {
+        float: right;
+        text-align: left; }
+    #section__recent_travel ul .empty {
+      opacity: 0.2; }
+    #section__recent_travel ul li:first-child {
+      margin-top: 0; }
+  #section__recent_travel .add_travel {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    -moz-transform: translate(-50%, 0%);
+    -o-transform: translate(-50%, 0%);
+    -ms-transform: translate(-50%, 0%);
+    -webkit-transform: translate(-50%, 0%);
+    transform: translate(-50%, 0%);
+    width: 83.75%;
+    height: 50px;
+    border: none;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    background: url(../_img/cross_plus_icon.svg) 90% no-repeat;
+    background-size: 15px;
+    background-color: #44DB5E;
+    font-family: "proxima-nova", sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #fff;
+    letter-spacing: 1px; }
+
+#section__configure_your_ticket {
+  background: linear-gradient(135deg, #386ec3 0%, #3cbdc5 100%); }
+  #section__configure_your_ticket .header {
+    width: 100%;
+    height: 50px;
+    background: #386EC3;
+    position: relative;
+    box-shadow: 0px 4px 5px -3px rgba(0, 0, 0, 0.75); }
+    #section__configure_your_ticket .header h1 {
+      margin: 0;
+      line-height: 50px;
+      text-align: center;
+      font-family: "proxima-nova", sans-serif;
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 20px;
+      color: #fff; }
+    #section__configure_your_ticket .header .left_arrow {
+      position: absolute;
+      top: 50%;
+      -moz-transform: translate(0%, -50%);
+      -o-transform: translate(0%, -50%);
+      -ms-transform: translate(0%, -50%);
+      -webkit-transform: translate(0%, -50%);
+      transform: translate(0%, -50%);
+      left: 20px;
+      height: 25px;
+      width: 25px;
+      background: url(../_img/left_arrow.svg) center no-repeat;
+      background-size: 20px;
+      border: none; }
+  #section__configure_your_ticket form {
+    width: 83.75%;
+    margin: 0 auto;
+    margin-top: 20px; }
+    #section__configure_your_ticket form .from_to {
+      width: 100%; }
+      #section__configure_your_ticket form .from_to label {
+        display: inline-block;
+        font-family: "proxima-nova", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+        opacity: 0.7;
+        margin-top: 10px;
+        margin-bottom: 10px; }
+      #section__configure_your_ticket form .from_to input {
+        width: 100%;
+        position: relative;
+        height: 50px;
+        right: 0;
+        border: none;
+        border-radius: 5px;
+        box-sizing: border-box;
+        padding-left: 20px;
+        font-family: "proxima-nova", sans-serif;
+        font-weight: 400;
+        text-transform: uppercase;
+        font-size: 16px;
+        color: #355F95;
+        letter-spacing: 1px; }
+    #section__configure_your_ticket form .round_trip_date {
+      float: left;
+      position: relative;
+      width: 70%; }
+      #section__configure_your_ticket form .round_trip_date label[for="calendar_date"] {
+        display: block;
+        font-family: "proxima-nova", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #fff;
+        opacity: 0.7;
+        margin-top: 10px;
+        margin-bottom: 10px; }
+      #section__configure_your_ticket form .round_trip_date input[type="date"] {
+        width: 90%;
+        display: block;
+        position: relative;
+        height: 50px;
+        right: 0;
+        border: none;
+        border-radius: 5px;
+        box-sizing: border-box;
+        padding-left: 20px;
+        font-family: "proxima-nova", sans-serif;
+        font-weight: 400;
+        text-transform: uppercase;
+        font-size: 16px;
+        color: #355F95;
+        letter-spacing: 1px;
+        -webkit-appearance: none;
+        line-height: 45px; }
+      #section__configure_your_ticket form .round_trip_date div {
+        height: 51px;
+        position: absolute;
+        width: 50px;
+        top: 37px;
+        right: 20px;
+        background: url(../_img/calendar_icon.svg) center no-repeat;
+        background-size: 20px;
+        background-color: #386EC3;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px; }
+    #section__configure_your_ticket form .round_trip_check button {
+      background-color: #355F95;
+      margin-top: 37px;
+      height: 50px;
+      border-radius: 5px;
+      border: none;
+      border: 1px solid #fff;
+      color: #fff;
+      font-family: "proxima-nova", sans-serif;
+      float: right; }
+    #section__configure_your_ticket form p {
+      font-family: "proxima-nova", sans-serif;
+      font-size: 14px;
+      font-weight: 400;
+      color: #fff;
+      opacity: 0.7;
+      margin-top: 100px;
+      margin-bottom: 10px; }
+    #section__configure_your_ticket form input[type="submit"] {
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      -moz-transform: translate(-50%, 0%);
+      -o-transform: translate(-50%, 0%);
+      -ms-transform: translate(-50%, 0%);
+      -webkit-transform: translate(-50%, 0%);
+      transform: translate(-50%, 0%);
+      width: 83.75%;
+      height: 50px;
+      border: none;
+      border-top-left-radius: 5px;
+      border-top-right-radius: 5px;
+      background: url(../_img/right_arrow.svg) 90% no-repeat;
+      background-size: 15px;
+      background-color: #44DB5E;
+      color: #fff;
+      letter-spacing: 1px; }
+    #section__configure_your_ticket form #airport {
+      background: url(../_img/plane_icon.svg) 10% no-repeat;
+      background-size: 15px;
+      width: 50%; }
+    #section__configure_your_ticket form #airport, #section__configure_your_ticket form #first_class {
+      border-radius: 5px;
+      border: none;
+      height: 50px;
+      background-color: #fff;
+      font-size: 16px;
+      font-family: "proxima-nova", sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      color: #355F95; }
+    #section__configure_your_ticket form #first_class {
+      width: 40%;
+      float: right; }
+    #section__configure_your_ticket form #animal {
+      background: url(../_img/pets_icon.svg) 10% no-repeat;
+      background-size: 15px; }
+    #section__configure_your_ticket form #bike {
+      background: url(../_img/bike_icon.svg) 10% no-repeat;
+      background-size: 20px;
+      float: right; }
+    #section__configure_your_ticket form select {
+      outline: none;
+      margin-top: 40px;
+      border-radius: 5px;
+      border: none;
+      height: 50px;
+      background-color: #fff !important;
+      font-size: 16px;
+      font-family: "proxima-nova", sans-serif;
+      font-weight: 400;
+      text-transform: uppercase;
+      font-size: 12px;
+      color: #355F95;
+      width: 45%;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      padding-left: 35px; }
+
+#section__qrcode_generated {
+  background: #fff; }
+  #section__qrcode_generated .header {
+    width: 100%;
+    height: 50px;
+    background: #386EC3;
+    position: relative;
+    box-shadow: 0px 4px 5px -3px rgba(0, 0, 0, 0.75); }
+    #section__qrcode_generated .header h1 {
+      margin: 0;
+      line-height: 50px;
+      text-align: center;
+      width: 150px;
+      margin: 0 auto;
+      font-family: "proxima-nova", sans-serif;
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 20px;
+      color: #fff; }
+    #section__qrcode_generated .header .left_arrow {
+      position: absolute;
+      top: 50%;
+      -moz-transform: translate(0%, -50%);
+      -o-transform: translate(0%, -50%);
+      -ms-transform: translate(0%, -50%);
+      -webkit-transform: translate(0%, -50%);
+      transform: translate(0%, -50%);
+      left: 20px;
+      height: 25px;
+      width: 25px;
+      background: url(../_img/left_arrow.svg) center no-repeat;
+      background-size: 20px;
+      border: none; }
+  #section__qrcode_generated h1 {
+    margin: 0 auto;
+    width: 83.75%;
+    margin-top: 20px;
+    font-family: "proxima-nova", sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    color: #386EC3; }
+  #section__qrcode_generated img {
+    width: 50%;
+    position: relative;
+    top: 100px;
+    left: 50%;
+    margin: 0 auto;
+    transform: rotate(360deg) translate(-50%, 0%);
+    animation: loading 3s linear infinite;
+    -moz-transform-origin: 0;
+    -o-transform-origin: 0;
+    -ms-transform-origin: 0;
+    -webkit-transform-origin: 0;
+    transform-origin: 0; }
+@-webkit-keyframes loading {
+  0% {
+    transform: rotate(0deg) translate(-50%, 0%); }
+  100% {
+    transform: rotate(360deg) translate(-50%, 0%); } }
+@-moz-keyframes loading {
+  0% {
+    transform: rotate(0deg) translate(-50%, 0%); }
+  100% {
+    transform: rotate(360deg) translate(-50%, 0%); } }
+@-ms-keyframes loading {
+  0% {
+    transform: rotate(0deg) translate(-50%, 0%); }
+  100% {
+    transform: rotate(360deg) translate(-50%, 0%); } }
+@keyframes loading {
+  0% {
+    transform: rotate(0deg) translate(-50%, 0%); }
+  100% {
+    transform: rotate(360deg) translate(-50%, 0%); } }
+#section__qrcode_download {
+  background: #fff; }
+  #section__qrcode_download .header {
+    width: 100%;
+    height: 50px;
+    background: #386EC3;
+    position: relative;
+    box-shadow: 0px 4px 5px -3px rgba(0, 0, 0, 0.75); }
+    #section__qrcode_download .header h1 {
+      margin: 0;
+      line-height: 50px;
+      text-align: center;
+      width: 150px;
+      margin: 0 auto;
+      font-family: "proxima-nova", sans-serif;
+      text-transform: uppercase;
+      font-weight: 400;
+      font-size: 20px;
+      color: #fff; }
+    #section__qrcode_download .header .left_arrow {
+      position: absolute;
+      top: 50%;
+      -moz-transform: translate(0%, -50%);
+      -o-transform: translate(0%, -50%);
+      -ms-transform: translate(0%, -50%);
+      -webkit-transform: translate(0%, -50%);
+      transform: translate(0%, -50%);
+      left: 20px;
+      height: 25px;
+      width: 25px;
+      background: url(../_img/left_arrow.svg) center no-repeat;
+      background-size: 20px;
+      border: none; }
+    #section__qrcode_download .header .download_icon {
+      position: absolute;
+      top: 50%;
+      -moz-transform: translate(0%, -50%);
+      -o-transform: translate(0%, -50%);
+      -ms-transform: translate(0%, -50%);
+      -webkit-transform: translate(0%, -50%);
+      transform: translate(0%, -50%);
+      right: 20px;
+      height: 25px;
+      width: 25px;
+      background: url(../_img/download_icon.svg) center no-repeat;
+      background-size: 20px;
+      border: none; }
+  #section__qrcode_download ul {
+    padding-left: 0;
+    width: 83.75%;
+    margin: 0 auto;
+    margin-top: 30px;
+    color: #386EC3; }
+    #section__qrcode_download ul li {
+      font-family: "proxima-nova", sans-serif;
+      font-size: 16px;
+      list-style: none;
+      float: left;
+      margin-right: 22%; }
+    #section__qrcode_download ul li:nth-child(2) {
+      background: url(../_img/return_icon.svg) center no-repeat;
+      background-size: 35px;
+      width: 70px;
+      height: 35px;
+      position: relative;
+      top: -7px; }
+    #section__qrcode_download ul li:last-child {
+      margin-right: 0; }
+  #section__qrcode_download .travel-details {
+    width: 83.75%;
+    height: 30px;
+    opacity: 0.5;
+    margin: 0 auto; }
+    #section__qrcode_download .travel-details p {
+      font-family: "proxima-nova", sans-serif;
+      font-size: 16px;
+      float: left;
+      color: #386EC3; }
+    #section__qrcode_download .travel-details img {
+      position: relative;
+      float: right;
+      top: 10px;
+      height: 25px; }
+  #section__qrcode_download .qrcode_icon {
+    width: 83.75%;
+    position: relative;
+    left: 50%;
+    top: 30px;
+    -moz-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0); }
+  #section__qrcode_download .scannez {
+    font-family: "proxima-nova", sans-serif;
+    font-size: 16px;
+    width: 83.75%;
+    color: #386EC3;
+    margin: 0 auto;
+    margin-top: 50px; }
+
+    #section__first_log_in ul li .active {
+    opacity: 1;
+    text-decoration: none;
+    position: relative;
+    transition: 0.3s all;
+    -webkit-transition: 0.3s all;
+}
+#section__first_log_in ul li a:after {
+    content: "";
+    height: 1px;
+    background-color: white;
+    width: 23px;
+    bottom: 0px;
+    opacity: 0;
+    left: 0;
+    position: absolute;
+    
+}
+#section__first_log_in ul li a.active:after {
+    bottom: -4px;
+    opacity: 1;
+    transition: 0.3s;
+    -webkit-transition: 0.3s;
+}
+
+.button_before{
+  background-color: #BFBFBF !important;
+}
+
+.check_selected_after{
+  background-color: #e0e0e0 !important;
+}
+/*# sourceMappingURL=style.css.map */

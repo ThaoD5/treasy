@@ -1,0 +1,172 @@
+Personas
+
+Prénom : Thierry
+Nom :  Poncelet
+ ge : 27 ans
+Profession : Couvreur 
+Habite à : Naninne
+Relation :  Marié
+
+A son propos : 
+Thierry n’a plus de père, et gagne difficilement sa vie, ses parents n’étant plus là pour l’aider financièrement, il ne peut s’offrir les réparations de sa voiture, et se déplace momentanément en train pour allez à son travail.
+Son garage ne cesse de lui dire que sa voiture sera réparée chaque jour, mais il attend toujours.
+
+Sa manière d’utiliser le train : 
+Tous les jours, le temps que sa voiture soit réparée, il prend un ticket à la borne automatique (afin d’éviter le guichet surpeuplé) jusqu’à Charleroi, où son employeur l’attend chaque matin.
+
+_____________________________________________________________
+
+Prénom : Patricia
+Nom : Kaas
+ ge : 89 ans
+Profession :  Retraitée, ex-caissière
+Habite à :  Ottignies
+Relation : Veuve
+
+A son propos : 
+Patricia est veuve depuis 5 ans, et ne dispose du permis voiture. Elle adore les brocantes, alors chaque week-end elle se rend à l’une d’elle, variant entre Bruxelles, Arlon, …
+Elle s’y rend alors en train avec son caddie à carreaux favoris, mais achète préalablement son ticket au guichet. Malheureusement, aujourd’hui, les guichetiers de la SNCB font grève, et Patricia est donc obligée d’utiliser la borne automatique pour acheter son billet. 
+
+
+Sa manière d’utiliser le train : Elle n’est pas du tout habituée aux bornes automatique et stresse souvent de ne pas prendre le bon train ou de tout simplement, le rater.
+
+_____________________________________________________________
+
+Prénom : Timmy
+Nom : Autoul
+ ge : 14 ans
+Profession :  Etudiant à l’école secondaire
+Habite à :  Jemeppe
+Relation : Célibataire
+
+A son propos : 
+Timmy est un jeune garçon qui souhaite se rendre à Namur, pour rejoindre son ami Pierre et jouer au football dans son jardin. C’est une grande première pour lui, et malheureusement, à sa toute petite gare de village, il n’y a qu’une borne automatique pour acheter son ticket.
+Il n’a donc aucune idée de ce qu’il doit acheter et n’a pas plus de 8 euros dans sa poche.
+
+Sa manière d’utiliser le train : 
+C’est la toute première fois que Timmy prend le train, donc il n’a jamais acheté de ticket et n’est jamais monté dans un train.
+_____________________________________________________________
+
+Prénom : Jeanne
+Nom : Clause
+ ge : 19 ans
+Profession :  Etudiante à l’école supérieur
+Habite à :  Arlon
+Relation : En couple
+
+A son propos : 
+Jeanne étudie la médecine à Bruxelles, elle rentre chaque week-end chez ses parents et retourne chaque dimanche soir à Bruxelles pour ses études, elle bénéficie donc du Campus, mais il a expiré il y a deux jours, alors qu’elle doit prendre le train ce soir, elle veut donc renouveler son campus à la borne, car les guichet son fermés.
+
+Sa manière d’utiliser le train : 
+Très fréquemment, et elle est une habituée de la borne automatique.
+
+_____________________________________________________________
+
+Nom :  Boulet
+Prénom :  Simone
+ ge : 21 ans
+Profession :  Cycliste haut niveau
+Habite à :  Bruxelles
+Relation : En couple
+
+A son propos : 
+Simone est une file très sportive, elle pratique le cyclisme à haut niveau, et participe à beaucoup de concours, toujours accompagnée de son chéri, lui aussi professionel du cyclisme. Elle habite Bruxelles et lui Charleroi, et cette fois-ci, le concours se passe à Beaumont, Simone décide d’acheter son ticket pour elle, et son vélo, et de déjà acheter le ticket pour son cheri, ainsi que de son vélo, car il est toujours en retard.
+Les tickets de son chéri sont donc de Charleroi à Beaumont, accompagné de son vélo, il montera dans le train avec Simone, à Charleroi.
+
+Sa manière d’utiliser le train : 
+Habituée, les tickets de trains & pour son vélo son logiques p
+
+_____________________________________________________________
+
+Prénom :  Marc
+Nom : Emmanuel
+ ge : 40 ans
+Profession :  Ouvrier en usine
+Habite à :  Athus
+Relation : En couple
+
+A son propos : 
+Marc est un père d’une famille de 6 personnes, lui, sa femme et 4 enfants. Ce week-end, afin de déstresser de la dure semaine qu’il vient de passer, il souhaite allez à Walibi avec toute sa famille, problème, la voiture est en panne et il doit y allez en train, ses enfants étant tous en bas âge, il est voué à lui-même pour acheter les tickets à la borne automatique de son bled.
+Ses enfants ont tous moins de 12 ans.
+
+Sa manière d’utiliser le train : 
+Jamais, il prend toujours sa voiture.
+
+_____________________________________________________________
+
+Nom :  Eric
+Prénom : Emmanuel
+ ge : 43 ans
+Profession :  Charpentier
+Habite à :  Charleroi
+Relation : Divorcé
+
+A son propos : 
+Eric est le frère de Marc, il souhaite le rejoindre à Walibi à la même heure, il veut donc prendre le train aussi, pour se rejoindre à la correspondance commune et arriver en même temps. Mais avant il doit passer par Bruxelles avant d’y allez, il lui faut donc prendre un ticket via à la borne automatique.
+
+Sa manière d’utiliser le train : 
+Régulièrement, il ne travaille que dans les environs de Charleroi, il rejoins souvent ses collègues en train, avec un billet RailPass
+
+_____________________________________________________________
+
+Nom :  Michelle
+Prénom :  Sanchez
+ ge : 35 ans
+Profession :  Institutrice
+Habite à :  Bertrix
+Relation : Mariée
+
+A son propos : 
+Madame Michelle est une institutrice de secondaire, et désire faire une excursion avec ses 21 élèves (âgé de 15 à 17 ans) du cours d’histoire. Elle veut leurs faire découvrir les vestiges archéologiques de la place St-Lambert à Liège.
+Elle veut acheter les billets pour tous les élèves participants pour ne plus devoir y penser, mais il n’y a pas de guichets et dois donc utiliser la borne automatique.
+Elle veut faire payer le moins possibles aux élèves, et cherche donc la meilleure combinaison.
+
+Sa manière d’utiliser le train : 
+Rarement, mais elle compte sur ses élèves pour l’aider.
+
+_____________________________________________________________
+
+Nom :  Lisa
+Prénom :  Fayt
+ ge : 23 ans
+Profession :  Etudiante
+Habite à :  Mons
+Relation : Célibataire
+
+A son propos : 
+Lisa à une très grande passion : les chiens. Elle en à 3 et elle n’a toujours pas le permis, elle doit donc se déplacer en train. Elle loge à Liège où elle réalise ses études en architecture, accompagnée de ses 3 chiens. Elle doit donc à chaque fois acheter 3 tickets supplémentaire à son campus (valide) afin de se rendre à son appartement
+
+Sa manière d’utiliser le train : 
+Très régulièrement, elle est habituée aux bornes.
+
+_____________________________________________________________
+
+Nom :  Rocky
+Prénom :  Balbeurre
+ ge : 29 ans
+Profession :  Militaire
+Habite à :  Bastogne
+Relation : Célibataire
+
+A son propos : 
+Rocky est un militaire formé et accompli, et enfin, il obtient sa permission pour ce week-end. Rocky compte bien mettre son temps à profit afin de séduire celle qui lui fait de l’oeil depuis plus de 2 mois, il souhaite la revoir mais la caserne ne lui cède pas de jeep pour le week-end, il doit donc y allez en train.
+Il espère avoir le ticket le moins cher pour pouvoir se faire un restaurant copieux avec cette demoiselle.
+
+Sa manière d’utiliser le train : 
+Il n’a plus pris le train depuis qu’il a réussi sa formation de militaire.
+
+_____________________________________________________________
+
+Nom :  Von Harschling
+Prénom :  Vincent
+ ge : 48 ans
+Profession :  CEO de Proximus
+Habite à :  Anvers
+Relation : Marié
+
+A son propos : 
+Vincent est une personne qui fait (comme on dit) parti du gratin, il gagne bien sa vie et dispose d’un bon nombre de personne à son service. Seulement, son chauffeur s’est casser la gueule lors de ses vacances de ski, et il s’est brisé les deux jambes, l’empêchant de travailler.
+Vincent doit maintenant allez à son travail (Bruxelles) en train, et lorsqu’il à acheter son ticket, il à malencontreusement acheter le ticket des pauvres, en seconde classe. Il ne veut absolument pas se mêler au bruit et au chaos, et à besoin d’acheter un billet permettant de passer à nouveau en première classe.
+
+Sa manière d’utiliser le train : 
+Jamais, son chauffeur est très prudent normalement.
